@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://192.168.0.163/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.163</link>
+	<description>Raymond&#039;s Relevant Relativity</description>
+	<lastBuildDate>
+	Tue, 16 Apr 2019 18:39:30 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.4</generator>
+
+<image>
+	<url>http://192.168.0.163/wp-content/uploads/cropped-R3-32x32.png</url>
+	<title></title>
+	<link>http://192.168.0.163</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Quiz Time!</title>
+		<link>http://192.168.0.163/?p=137</link>
+				<comments>http://192.168.0.163/?p=137#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 18:39:30 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://192.168.2.96/?p=137</guid>
+				<description><![CDATA[Loading&#8230;]]></description>
+								<content:encoded><![CDATA[
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewBxJH0WUW9eBIXtqkx7ayBMFV3AUaJM4e1-QRKBAv4EjP6A/viewform?embedded=true" width="640" height="2009" frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=137</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Spacetime Diagrams, Worldlines and Simultaneity</title>
+		<link>http://192.168.0.163/?p=135</link>
+				<comments>http://192.168.0.163/?p=135#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 18:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Spacetime Diagrams]]></category>
+
+		<guid isPermaLink="false">http://192.168.2.96/?p=135</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/SDSA_GSjsCM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/DnAw9egrC1o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=135</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Muon Decay</title>
+		<link>http://192.168.0.163/?p=124</link>
+				<comments>http://192.168.0.163/?p=124#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 03:21:24 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=124</guid>
+				<description><![CDATA[When high-energy cosmic rays hit Earth&#8217;s upper atmosphere, new particles including muons are created. These particles are often unstable and decay in a known short amount time. The decay of muons travelling through our atmosphere was used in 1962 to confirm the relativistic concepts of time dilation and length contraction. &#8220;Detectors are set up high [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>When high-energy cosmic rays hit Earth&#8217;s upper atmosphere, new particles including muons are created. These particles are often unstable and decay in a known short amount time. The decay of muons travelling through our atmosphere was used in 1962 to confirm the relativistic concepts of time dilation and length contraction.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Detectors are set up high on a mountain and at the base of the mountain. The distance between detectors is known, and by detecting the number of muons at both positions, relevant data are obtained. We just need to measure the number of muons per unit time at both positions. The muons act like precision clocks, and they have a known half-life.&#8221;</p><cite>&#8211; Kognity, Inc</cite></blockquote>
+
+
+
+<p>You can use the applet below to try the experiment yourself. Note that you&#8217;ll need Adobe Flash.</p>
+
+
+
+<p><embed type="application/x-shockwave-flash" width="1000" height="750" src="https://www.kcvs.ca/site/projects/physics_files/specialRelativity/muonDecay/muonDecay.swf"></embed></p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=124</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Time Dilation and Length Contraction</title>
+		<link>http://192.168.0.163/?p=101</link>
+				<comments>http://192.168.0.163/?p=101#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 01:55:43 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=101</guid>
+				<description><![CDATA[Both space and time require modification with Lorentz&#8217;s gamma factor in order to keep the speed of light invariant. Space modification is known as length contraction, and time modification is known as time dilation. Instead of being intrinsic physical properties of a moving object, time dilation and length contraction are symmetric properties, being applicable to [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Both space and time require modification with Lorentz&#8217;s gamma factor in order to keep the speed of light invariant. Space modification is known as length contraction, and time modification is known as time dilation.</p>
+
+
+
+<p>Instead of being intrinsic physical properties of a moving object, time dilation and length contraction are symmetric properties, being applicable to any objects from two different IRFs. These relational properties are solely the result of coordinate transformations, and thus deal with kinematics, not dynamics.</p>
+
+
+
+<h4>Time Dilation</h4>
+
+
+
+<blockquote class="wp-block-quote"><p>Definition: <strong>Proper Time</strong> is the time interval <span class="katex-eq" data-katex-display="false">{\Delta}t_0</span> measured between two events that take place in the same IRF, at rest to the observer. This definition holds true in any IRF.</p></blockquote>
+
+
+
+<p>When comparing time measurements between IRFs, proper time is always the shortest possible time interval. A moving clock&#8217;s time is seen to run slower than that of a stationary clock&#8217;s, though this is all relative to an observer. This slowing down of time is time dilation, meaning <em>time extension</em>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Definition: <strong>Dilated time</strong> is the time interval <span class="katex-eq" data-katex-display="false">{\Delta}t</span> measured for a timepiece in relativistic motion in relation to the observer. Near the speed of light, time slows down.</p></blockquote>
+
+
+
+<p>The equation to calculate for dilated time is: <span class="katex-eq" data-katex-display="false">{\Delta}t=\gamma{\Delta}t_0</span>, with the time interval of the stationary clock as <span class="katex-eq" data-katex-display="false">{\Delta}t_0</span>, and that of the moving clock as <span class="katex-eq" data-katex-display="false">{\Delta}t</span>.</p>
+
+
+
+<h4>Length Contraction</h4>
+
+
+
+<blockquote class="wp-block-quote"><p>Definition: <strong>Proper Length</strong> is the invariant quantity of length measured of an object in the same IRF as the observer. This definition holds true in any IRF.</p></blockquote>
+
+
+
+<p>Proper length is always the longest possible measurement made of an object when comparing reference frame measurements, and is always longer than or equal to a contracted length, meaning <em>shrunken length</em>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Definition: An entirely relative concept, <strong>Contracted Length</strong> is the measured length of an object in relativistic motion to the observer. Though this may seem like an optical trick, it is not. The object does not shrink, yet the measured size is real for the observer.</p><cite>The strangeness of relativity.</cite></blockquote>
+
+
+
+<p>The contracted length of an object in relation to its proper length is given by the equation <span class="katex-eq" data-katex-display="false">L=\frac{L_0}{\gamma}</span>, where <span class="katex-eq" data-katex-display="false">L</span> is the contracted length, and <span class="katex-eq" data-katex-display="false">L_0</span> is the proper length. Note that <span class="katex-eq" data-katex-display="false">L_0=v{\Delta}t</span>, where <span class="katex-eq" data-katex-display="false">t</span> is the dilated time.</p>
+
+
+
+<h4>Reality Check</h4>
+
+
+
+<p>In real life, we do not see time slowing or meter-sticks shrinking to centimetre-sticks simply because we do not go fast enough. Recall that at low speeds <span class="katex-eq" data-katex-display="false">\gamma\approx 1</span>, and only as <span class="katex-eq" data-katex-display="false">v</span> approaches <span class="katex-eq" data-katex-display="false">c</span> does <span class="katex-eq" data-katex-display="false">\gamma\to1</span>. This follows that <span class="katex-eq" data-katex-display="false">L\to1</span>. Note that length is a 1D concept, so length contraction only occurs along the <span class="katex-eq" data-katex-display="false">x</span>-axis.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://d3vrb2m3yrmyfi.cloudfront.net/media/edusys_2/content_uploads/13.2.7.3-A-cube-as-seen-moving-along-the-x-axis-at-different-speeds.148dd7c84a402fcd090e.jpeg" alt="A cube as seen moving along the x-axis at different speeds. According to the equations of relativity, the cube can approach but never reach the speed of light."/><figcaption>A cube moving along the <span class="katex-eq" data-katex-display="false">x</span>-axis at different speeds of <span class="katex-eq" data-katex-display="false">v</span>.</figcaption></figure>
+
+
+
+<p>Time and length in physics are all <em>measured</em> values, and measurements cannot be made of moving objects without reference frames. Time dilation and length contraction are <em>real</em>, just objective and quantitative, not subjective.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=101</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Spacetime Intervals</title>
+		<link>http://192.168.0.163/?p=94</link>
+				<comments>http://192.168.0.163/?p=94#respond</comments>
+				<pubDate>Mon, 15 Apr 2019 22:53:35 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=94</guid>
+				<description><![CDATA[We have already discussed the invariability of the speed of light. Some other concepts in relativity are invariant, or unchanged by relative motion or position, including the charge of an electron, proper length and time, and rest mass. Spacetime intervals, defined as for 1D motion in a reference frame , is also an invariant quantity. [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>We have already discussed the invariability of the speed of light. Some other concepts in relativity are invariant, or unchanged by relative motion or position, including the charge of an electron, proper length and time, and rest mass.</p>
+
+
+
+<p>Spacetime intervals, defined as <span class="katex-eq" data-katex-display="false">{\Delta}s^2=(c{\Delta}t)^2-{\Delta}x^2</span> for 1D motion in a reference frame <span class="katex-eq" data-katex-display="false">S</span>, is also an invariant quantity. This means that <span class="katex-eq" data-katex-display="false">{\Delta}s^2={\Delta}(s^{\prime})^2</span>, which follows that <span class="katex-eq" data-katex-display="false">(ct^{\prime})^2-(x^{\prime})^2=(ct)^2-(x)^2</span>.</p>
+
+
+
+<p>The following chart describes the values of <span class="katex-eq" data-katex-display="false">{\Delta}s^2</span>:</p>
+
+
+
+<table class="wp-block-table is-style-stripes"><tbody><tr><td>Value of <span class="katex-eq" data-katex-display="false">{\Delta}s^2</span></td><td>Description</td></tr><tr><td><span class="katex-eq" data-katex-display="false">{\Delta}s^2\gt0</span></td><td>Physical interaction between 2 reference frames possible.<br>Time-like interval, but simultaneity impossible.</td></tr><tr><td><span class="katex-eq" data-katex-display="false">{\Delta}s^2=0</span></td><td>Only signals at <span class="katex-eq" data-katex-display="false">v=c</span> like radio waves can interact between reference frames.</td></tr><tr><td><span class="katex-eq" data-katex-display="false">{\Delta}s^2\lt0</span></td><td>Space between 2 reference frames too large for any physical interaction.</td></tr></tbody></table>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=94</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Velocity Addition</title>
+		<link>http://192.168.0.163/?p=82</link>
+				<comments>http://192.168.0.163/?p=82#respond</comments>
+				<pubDate>Mon, 15 Apr 2019 18:33:16 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=82</guid>
+				<description><![CDATA[Because of the postulates of relativity, it is impossible to reach the speed of light, so the Galilean velocity equations and cannot be used on light. Note that velocity values are vectors, and that the speed , is always with respect to where is in relative motion to . The Galilean equations are modified as [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Because of the postulates of relativity, it is impossible to reach the speed of light, so the Galilean velocity equations <span class="katex-eq" data-katex-display="false">u^{\prime} = u – v</span> and <span class="katex-eq" data-katex-display="false">u = u^{\prime} + v</span> cannot be used on light.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://d3vrb2m3yrmyfi.cloudfront.net/media/edusys_2/content_uploads/13.2.4.1%20Notation%20for%20the%20relativistic%20velocity%20addition%20equations..d010f834add8801ebddd.png" alt="Notation for the relativistic velocity addition equations. If the bullet were fired back toward the earth then its velocity value would be negative. The velocity quantities are vectors."/><figcaption>A rocket is moving very fast away from the earth and shoots a bullet away from the earth.<br></figcaption></figure>
+
+
+
+<p>Note that velocity values are vectors, and that the speed <span class="katex-eq" data-katex-display="false">u^{\prime}</span>, is always with respect to <span class="katex-eq" data-katex-display="false">S^{\prime}</span> where <span class="katex-eq" data-katex-display="false">S^{\prime}</span> is in relative motion to <span class="katex-eq" data-katex-display="false">S</span>.</p>
+
+
+
+<p>The Galilean equations are modified as follows to be applicable at light speed:<br><span class="katex-eq" data-katex-display="false">u^{\prime} = u-v</span> becomes <span class="katex-eq" data-katex-display="false">u^{\prime}= \frac {u-v}{1-\frac{uv}{c^2}}</span>.<br><span class="katex-eq" data-katex-display="false">u=u^{\prime}+v</span> becomes <span class="katex-eq" data-katex-display="false">u=\frac{u^{\prime}+v}{1+\frac{u’v}{c^2}}</span>.</p>
+
+
+
+<p>These modified equations allow us to use Galileo&#8217;s velocity additions with the speed of light.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=82</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Lorentz Transformations</title>
+		<link>http://192.168.0.163/?p=72</link>
+				<comments>http://192.168.0.163/?p=72#respond</comments>
+				<pubDate>Sun, 14 Apr 2019 22:30:56 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=72</guid>
+				<description><![CDATA[20th century Dutch physicist Hendrik Lorentz came up with an arbitrary factor, called gamma (), to make for different IRFs, thereby keeping classical physics equations valid across spacetime. Note that time doesn’t have to be equal in 2 reference frames. It will be denoted in reference frames and as and . The gamma factor is [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>20th century Dutch physicist Hendrik Lorentz came up with an arbitrary factor, called gamma (<span class="katex-eq" data-katex-display="false">\gamma</span>), to make <span class="katex-eq" data-katex-display="false">c=c^{\prime}</span> for different IRFs, thereby keeping classical physics equations valid across spacetime. Note that time doesn’t have to be equal in 2 reference frames. It will be denoted in reference frames <span class="katex-eq" data-katex-display="false">S</span> and <span class="katex-eq" data-katex-display="false">S^{\prime}</span> as <span class="katex-eq" data-katex-display="false">t</span> and <span class="katex-eq" data-katex-display="false">t^{\prime}</span>.</p>
+
+
+
+<p>The gamma factor is defined as <span class="katex-eq" data-katex-display="false">\gamma =\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}</span>. Note that <span class="katex-eq" data-katex-display="false">v</span> is defined as the relative speed between two inertial frames, and <span class="katex-eq" data-katex-display="false">c</span> is the speed of light. Using this gamma factors, the following Galilean equations can be used:</p>
+
+
+
+<p><span class="katex-eq" data-katex-display="false">x^{\prime}=x-vt</span> becomes <span class="katex-eq" data-katex-display="false">x^{\prime}=\gamma(x-vt)</span>.<br>The inverse, <span class="katex-eq" data-katex-display="false">x=x^{\prime}+vt</span> is rewritten as <span class="katex-eq" data-katex-display="false">x=x^{\prime}+vt^{\prime}</span>, and it becomes <span class="katex-eq" data-katex-display="false">x=\gamma(x^{\prime}+vt^{\prime})</span>.<br>A reminder that the speed of light is the same in each reference frame: <span class="katex-eq" data-katex-display="false">c=xt</span> and <span class="katex-eq" data-katex-display="false">c^{\prime}=x^{\prime}t^{\prime}</span>.</p>
+
+
+
+<p>We can see from the graph below that as <span class="katex-eq" data-katex-display="false">v</span> approaches 0, the <span class="katex-eq" data-katex-display="false">\gamma</span> factor approaches 1, meaning that these equations work in Newtonian mechanics, as <span class="katex-eq" data-katex-display="false">\gamma</span> is very close to 1 in regular situations. It is also evident that, as <span class="katex-eq" data-katex-display="false">v</span> approaches <span class="katex-eq" data-katex-display="false">c</span>, <span class="katex-eq" data-katex-display="false">\gamma</span> approaches <span class="katex-eq" data-katex-display="false">\infty</span>. From the graph below of <span class="katex-eq" data-katex-display="false">\gamma</span> against speed, the speed of light is the asymptote for <span class="katex-eq" data-katex-display="false">v</span>, so an accelerated body can never reach <span class="katex-eq" data-katex-display="false">c</span>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://d3vrb2m3yrmyfi.cloudfront.net/media/edusys_2/content_uploads/13.2.3.1%20As%20speed%20increases%20so%20does%20gamma.%20It%20is%20impossible%20to%20reach%20the%20speed%20of%20light..90c5fb5aba65c18ed9fb.png" alt="As speed increases so does gamma. It is impossible to reach the speed of light."/></figure></div>
+
+
+
+<p>Note that the gamma factor has no units, and <span class="katex-eq" data-katex-display="false">{\alpha}{\beta}%</span> of <span class="katex-eq" data-katex-display="false">c</span> is the same as <span class="katex-eq" data-katex-display="false">0.{\alpha}{\beta}c</span>.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=72</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Clock Synchronization</title>
+		<link>http://192.168.0.163/?p=66</link>
+				<comments>http://192.168.0.163/?p=66#respond</comments>
+				<pubDate>Sun, 14 Apr 2019 21:55:07 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=66</guid>
+				<description><![CDATA[The reason we need to synchronize clocks is that in physics, we need clocks that keep accurate and precise time. We might want to make measurements of time intervals in two reference frames in relative motion with each other, and we generally want coordinate transformation equations to be consistent with the two postulates of relativity. [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>The reason we need to synchronize clocks is that in physics, we need clocks that keep accurate and precise time. We might want to make measurements of time intervals in two reference frames in relative motion with each other, and we generally want coordinate transformation equations to be consistent with the two postulates of relativity.</p>
+
+
+
+<p>So, how do we synchronize clocks? We can use a flash of light at the midpoint between 2 clocks, with photocells to detect light and in the same IRF. This would synchronize the 2 clocks.</p>
+
+
+
+<p>However, let&#8217;s assume that 2 observers are in different IRFs. One is with the 2 clocks to be synchronized, the other is far away, and their relative velocity is nonzero. The observer from one IRF would see that the clocks in the second IRF are not synchronized, but the other observer would see that they are.</p>
+
+
+
+<p>Who&#8217;s right? Both are objective and correct because of asymmetric relationship of space and time between 2 frames of reference.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=66</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Postulates of Relativity</title>
+		<link>http://192.168.0.163/?p=50</link>
+				<comments>http://192.168.0.163/?p=50#respond</comments>
+				<pubDate>Sun, 14 Apr 2019 20:02:03 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Lorentz Transformations]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=50</guid>
+				<description><![CDATA[Einstein changed the assumptions of absolute space and time with his 2 postulates of relativity. Postulate 1: Laws of physics are same in all IRFs. This means that there is no preferred frame of reference, no absolute or unique position in the universe, and no experiment that can show that an observer is at rest [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Einstein changed the assumptions of absolute space and time with his 2 postulates of relativity.</p>
+
+
+
+<p><strong>Postulate 1: Laws of physics are same in all IRFs.</strong></p>
+
+
+
+<p>This means that there is no preferred frame of reference, no absolute or unique position in the universe, and no experiment that can show that an observer is at rest or moving at a constant velocity.<br>Thus, all uniform motion is relative.</p>
+
+
+
+<p><strong class="flipthis-highlight">Postulate 2: Speed of light in a vacuum is constant/invariant, denoted </strong><span class="katex-eq" data-katex-display="false">c</span><strong class="flipthis-highlight">, for all IRFs</strong></p>
+
+
+
+<p>This is an extension of Maxwell&#8217;s Theory of Electromagnetism, where Einstein states that the generic velocity <span class="katex-eq" data-katex-display="false">v = \frac{d}{t}</span> doesn’t really work for light because of this postulate.</p>
+
+
+
+<p>Though today we see Einstein&#8217;s work as a total revolution in relativity and nuclear physics, Einstein himself thinks his postulates and theories are just a completion of Newtonian physics, not a revolution.</p>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=50</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Speed of Light</title>
+		<link>http://192.168.0.163/?p=47</link>
+				<comments>http://192.168.0.163/?p=47#respond</comments>
+				<pubDate>Fri, 12 Apr 2019 19:19:39 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[Intro to Relativity]]></category>
+
+		<guid isPermaLink="false">http://localhost/?p=47</guid>
+				<description><![CDATA[Maxwell&#8217;s theory of electromagnetism contains 4 equations not required by IB. Definition: An invariant quantity or property of a system remains unchanged as the system undergoes transformations. One of the important conclusions of Maxwell&#8217;s theory of electromagnetism is that the speed of light is invariant in vacuum. This also means that the value for c [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Maxwell&#8217;s theory of electromagnetism contains 4 equations not required by IB.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Definition: An <strong>invariant</strong> quantity or property of a system remains unchanged as the system undergoes transformations.</p></blockquote>
+
+
+
+<p>One of the important conclusions of Maxwell&#8217;s theory of electromagnetism is that <strong>the speed of light is invariant in vacuum</strong>. This also means that the value for <em>c</em> is independent of any relative motion between source and observer.</p>
+
+
+
+<p>The table below summarizes the understandings of 4 renowned physicists on addition close to the speed of light:</p>
+
+
+
+<table class="wp-block-table is-style-stripes"><tbody><tr><td>Galileo &amp; Newton</td><td>Maxwell &amp; Einstein</td></tr><tr><td>0.5<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.5<em>c</em><sub>light</sub></td><td>sum of 0.5<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>0.9<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.9<em>c</em><sub>light</sub></td><td>sum of 0.9<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>-0.7<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 0.3<em>c</em><sub>light</sub></td><td>sum of -0.7<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr></tbody></table>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=47</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

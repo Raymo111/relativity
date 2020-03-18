@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>General</title>
+	<atom:link href="http://192.168.0.163/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
+	<link>http://192.168.0.163</link>
+	<description>Raymond&#039;s Relevant Relativity</description>
+	<lastBuildDate>
+	Tue, 16 Apr 2019 18:39:30 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.4</generator>
+
+<image>
+	<url>http://192.168.0.163/wp-content/uploads/cropped-R3-32x32.png</url>
+	<title>General</title>
+	<link>http://192.168.0.163</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Quiz Time!</title>
+		<link>http://192.168.0.163/?p=137</link>
+				<comments>http://192.168.0.163/?p=137#respond</comments>
+				<pubDate>Tue, 16 Apr 2019 18:39:30 +0000</pubDate>
+		<dc:creator><![CDATA[raymo]]></dc:creator>
+				<category><![CDATA[General]]></category>
+
+		<guid isPermaLink="false">http://192.168.2.96/?p=137</guid>
+				<description><![CDATA[Loading&#8230;]]></description>
+								<content:encoded><![CDATA[
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewBxJH0WUW9eBIXtqkx7ayBMFV3AUaJM4e1-QRKBAv4EjP6A/viewform?embedded=true" width="640" height="2009" frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
+]]></content:encoded>
+							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=137</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
