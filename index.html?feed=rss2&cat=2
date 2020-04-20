@@ -6,7 +6,6 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
-
 <channel>
 	<title>Intro to Relativity</title>
 	<atom:link href="/?feed=rss2&#038;cat=2" rel="self" type="application/rss+xml" />
@@ -20,7 +19,6 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.4</generator>
-
 <image>
 	<url>/wp-content/uploads/cropped-R3-32x32.png</url>
 	<title>Intro to Relativity</title>
@@ -35,26 +33,13 @@
 				<pubDate>Fri, 12 Apr 2019 19:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
-
 		<guid isPermaLink="false">http://localhost/?p=47</guid>
 				<description><![CDATA[Maxwell&#8217;s theory of electromagnetism contains 4 equations not required by IB. Definition: An invariant quantity or property of a system remains unchanged as the system undergoes transformations. One of the important conclusions of Maxwell&#8217;s theory of electromagnetism is that the speed of light is invariant in vacuum. This also means that the value for c [&#8230;]]]></description>
 								<content:encoded><![CDATA[
 <p>Maxwell&#8217;s theory of electromagnetism contains 4 equations not required by IB.</p>
-
-
-
 <blockquote class="wp-block-quote"><p>Definition: An <strong>invariant</strong> quantity or property of a system remains unchanged as the system undergoes transformations.</p></blockquote>
-
-
-
 <p>One of the important conclusions of Maxwell&#8217;s theory of electromagnetism is that <strong>the speed of light is invariant in vacuum</strong>. This also means that the value for <em>c</em> is independent of any relative motion between source and observer.</p>
-
-
-
 <p>The table below summarizes the understandings of 4 renowned physicists on addition close to the speed of light:</p>
-
-
-
 <table class="wp-block-table is-style-stripes"><tbody><tr><td>Galileo &amp; Newton</td><td>Maxwell &amp; Einstein</td></tr><tr><td>0.5<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.5<em>c</em><sub>light</sub></td><td>sum of 0.5<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>0.9<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.9<em>c</em><sub>light</sub></td><td>sum of 0.9<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>-0.7<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 0.3<em>c</em><sub>light</sub></td><td>sum of -0.7<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr></tbody></table>
 ]]></content:encoded>
 							<wfw:commentRss>/?feed=rss2&#038;p=47</wfw:commentRss>
@@ -67,62 +52,22 @@
 				<pubDate>Fri, 12 Apr 2019 16:40:40 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
-
 		<guid isPermaLink="false">http://localhost/?p=37</guid>
 				<description><![CDATA[Spacetime coordinates in one IRF can be used to calculate spacetime coordinates in another IRF, when given the relative velocity of IRF2 to IRF1. One can use the vector displacement method to write Galilean coordinate transformation equations, simplified to one dimension and uniform relative velocity. For example, for two different coordinate systems and , the [&#8230;]]]></description>
 								<content:encoded><![CDATA[
 <p>Spacetime coordinates in one IRF can be used to calculate spacetime coordinates in another IRF, when given the relative velocity of IRF2 to IRF1.</p>
-
-
-
 <figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/YZetDQlJMBwNuHv1bv6eq4IWbur6j71K2WToOO7TdWggbEhg0MFVZ-ZSHHG7Mu0Jy2x30cg1iLNMpTZCAND2wNyan7pYcvQOxUWiFgNq3aBkuyCNuOw9sy6692uJClOJ2A6ZqY-v" alt=" Relative motion between two inertial reference frames."/><figcaption><em>S’</em> is moving to the right at speed <em>v</em> with respect to <em>S</em><br></figcaption></figure>
-
-
-
 <p>One can use the vector displacement method to write Galilean coordinate transformation equations, simplified to one dimension and uniform relative velocity. For example, for two different coordinate systems <span class="katex-eq" data-katex-display="false">S</span> and <span class="katex-eq" data-katex-display="false">S^{\prime}</span>, the vector displacement equation would be <span class="katex-eq" data-katex-display="false">x_1={x_{1}}^\prime+v{\Delta}t</span>.</p>
-
-
-
 <figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/dFTLS-7iOLg871nm36UyxSSqtBtRWMpih0KttEN_wlNMau4Ye5XrXTj4uezpPosruBXOW7_Ldw1mdBvvZpHQ7RJfIfDESXjt5gcLo92R4qkcen4ciaGVdcgarOQHDOVWpEbni-c9" alt="This is the same situation as in Figure 3-A but here we are looking at distance measurements, not positions, and time intervals, not a given time. At time zero for both reference frames, we have x0 = x'0 = 0 and t0 = t'0 = 0."/><figcaption>Note: There is no movement in the y-axis, the offset is only for clarity.</figcaption></figure>
-
-
-
 <p>In this diagram, <span class="katex-eq" data-katex-display="false">x</span> and <span class="katex-eq" data-katex-display="false">x^{\prime}</span> denote <strong>position</strong> in coordinate systems <span class="katex-eq" data-katex-display="false">S</span> and <span class="katex-eq" data-katex-display="false">S^{\prime}</span>, and the measured distance (<strong>length</strong> along the x-axis) can be denoted with the equation <span class="katex-eq" data-katex-display="false">{\Delta}x=x_2-x_1</span>. <strong>Time</strong> in the systems is denoted as <span class="katex-eq" data-katex-display="false">t</span> and <span class="katex-eq" data-katex-display="false">t^{\prime}</span>, and an interval of time can be denoted as <span class="katex-eq" data-katex-display="false">{\Delta}t=t_2-t_1</span>.</p>
-
-
-
 <p>Galilean stated that time is consistent, and <span class="katex-eq" data-katex-display="false">t=t^{\prime}</span>, <span class="katex-eq" data-katex-display="false">{\Delta}t={\Delta}t^{\prime}</span> for any reference frame.</p>
-
-
-
 <figure class="wp-block-image"><img src="https://lh4.googleusercontent.com/sr-5lY3_wxxCsEjT8W7MMWPuYhXDIINOyUHMHDs6ntAgOD7e3o63XaIPPTy-0OvMM6HdTytwI5u4Audniyp7gyuO0oiL0hy4ZmsIURBBVfZgzUysXwUW7j5eSjOB2oZCFhCWu7XO" alt=" An observer on the earth and one on a moving train car. The person on the moving train car is walking forward with a speed u' as measured in the train car while the person on the ground sees the walker moving at a speed u."/></figure>
-
-
-
 <p>When looking at relative motion, the Galilean law of velocity addition is <span class="katex-eq" data-katex-display="false">u=u^{\prime}+v</span>. Note that all these quantities are vectors!</p>
-
-
-
 <p>In Galilean transformations, acceleration is invariant. However, in Einstein’s relativity, acceleration is not invariant.</p>
-
-
-
 <p>Newton’s postulates of space and time state that <strong>absolute space and time</strong> are independent from reference frames. However, Newton describes motion as always being relative.</p>
-
-
-
 <blockquote class="wp-block-quote"><p>Definition: <strong>Postulates</strong> are basic assumptions without proof used to make rules for scientific theories, that are neither right nor wrong.</p></blockquote>
-
-
-
 <p>Newton&#8217;s postulates also state that IRFs are identical concerning the laws of physics, and there is no experimental evidence to claim that any IRF is truly at rest, and measurements of space and time are made independent of any given frame of reference.</p>
-
-
-
 <p>Galileo, Newton and Einstein agree all uniform motion is relative.</p>
-
-
-
 <p></p>
 ]]></content:encoded>
 							<wfw:commentRss>/?feed=rss2&#038;p=37</wfw:commentRss>
@@ -135,42 +80,17 @@
 				<pubDate>Fri, 12 Apr 2019 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
-
 		<guid isPermaLink="false">http://localhost/?p=33</guid>
 				<description><![CDATA[To understand relativity, one must first understand reference frames. All measurements in physics are taken from the origin. 3D Cartesian coordinate space has axes at right angles to each other. There are many possible reference frames, and all measurements are made from a frame of reference. Inertial reference frames (IRF) are defined as having no [&#8230;]]]></description>
 								<content:encoded><![CDATA[
 <p>To understand relativity, one must first understand reference frames.</p>
-
-
-
 <p>All measurements in physics are taken from the <strong>origin</strong>. 3D Cartesian coordinate space has <span class="katex-eq" data-katex-display="false">x, y, z</span> axes at right angles to each other.</p>
-
-
-
 <figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/QQ_MK3laU6IjGiingrfw3KsalesbOYwR9OYzesvr3tqf1CP12-eQaCLc6TcPHlAUIJ3cNPBCvamzA1aTRjIzmFHOuiOJu2gmHR2yKIqknYRBlMtNw2ZVaieRHAUoJkoAHo1DXZzt" alt="Coordinates x, y, z and t."/><figcaption>Any event can be represented by observer with <em>x, y, z, t</em> (time)<br></figcaption></figure>
-
-
-
 <p>There are many possible reference frames, and all measurements are made from a frame of reference.</p>
-
-
-
 <figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/EU5y1BEM189icuVYhk7GJN_khVhnBCnhevuCIaW94WKPUoNtdvuTRwZC2KxKVZU_DRrXMdjS3qS-FNYoSl1tJWGiQ4jtMAS2HVUPgb5BRXKb3__HqP7mlpfP89dM-D04JkxZQn6Z" alt=" Coordinates x, y, z and t for some even."/><figcaption>Reference frames <span class="katex-eq" data-katex-display="false">S</span> and <span class="katex-eq" data-katex-display="false">S^{\prime}</span> relate to each other by <span class="katex-eq" data-katex-display="false">x^{\prime}=x-{\Delta}x</span></figcaption></figure>
-
-
-
 <p>Inertial reference frames (IRF) are defined as having no acceleration. Though Earth is not a true IRF, its acceleration is so small that it can be ignored.</p>
-
-
-
 <p>Galileo and Einstein agree that all IRFs and their laws of physics are identical.</p>
-
-
-
 <p>Reference frames can differ from the origin via rotation or translation. Alternatively, one frame of reference can be moving relative to another.</p>
-
-
-
 <figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/i7FE-tnjgrXT_eyTvYuD2O-m0qDQoEq9PJhLTtfXKMxVyq7KrygfQZg6CYnK2iLBK4J28JTZBzn1GjscMB2nTasPTg6vwax_OlfemHMNFOSTiTNWsUW8UKOICAQknEXKB8uNx5PI" alt="Reference frames do not have to line up. However, for our study we consider one dimension only where the two coordinate systems run parallel along an x-axis."/><figcaption>Various different reference frames. In the bottom right diagram, <span class="katex-eq" data-katex-display="false">S^{\prime}</span> is moving at a speed <span class="katex-eq" data-katex-display="false">v</span> with respect to <span class="katex-eq" data-katex-display="false">S</span>.</figcaption></figure>
 ]]></content:encoded>
 							<wfw:commentRss>/?feed=rss2&#038;p=33</wfw:commentRss>

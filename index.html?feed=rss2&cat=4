@@ -6,7 +6,6 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
-
 <channel>
 	<title>Spacetime Diagrams</title>
 	<atom:link href="/?feed=rss2&#038;cat=4" rel="self" type="application/rss+xml" />
@@ -20,7 +19,6 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.4</generator>
-
 <image>
 	<url>/wp-content/uploads/cropped-R3-32x32.png</url>
 	<title>Spacetime Diagrams</title>
@@ -35,22 +33,15 @@
 				<pubDate>Tue, 16 Apr 2019 18:37:18 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Spacetime Diagrams]]></category>
-
 		<guid isPermaLink="false">http://192.168.2.96/?p=135</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SDSA_GSjsCM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
-
-
-
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/DnAw9egrC1o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
-
-
-
 <p></p>
 ]]></content:encoded>
 							<wfw:commentRss>/?feed=rss2&#038;p=135</wfw:commentRss>
