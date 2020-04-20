@@ -9,8 +9,8 @@
 
 <channel>
 	<title>raymo</title>
-	<atom:link href="http://192.168.0.163/?feed=rss2&#038;author=1" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.163</link>
+	<atom:link href="/?feed=rss2&#038;author=1" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Raymond&#039;s Relevant Relativity</description>
 	<lastBuildDate>
 	Tue, 16 Apr 2019 18:39:30 +0000	</lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.4</generator>
 
 <image>
-	<url>http://192.168.0.163/wp-content/uploads/cropped-R3-32x32.png</url>
+	<url>/wp-content/uploads/cropped-R3-32x32.png</url>
 	<title>raymo</title>
-	<link>http://192.168.0.163</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Quiz Time!</title>
-		<link>http://192.168.0.163/?p=137</link>
-				<comments>http://192.168.0.163/?p=137#respond</comments>
+		<link>/?p=137</link>
+				<comments>/?p=137#respond</comments>
 				<pubDate>Tue, 16 Apr 2019 18:39:30 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[General]]></category>
@@ -41,13 +41,13 @@
 								<content:encoded><![CDATA[
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewBxJH0WUW9eBIXtqkx7ayBMFV3AUaJM4e1-QRKBAv4EjP6A/viewform?embedded=true" width="640" height="2009" frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=137</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=137</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Spacetime Diagrams, Worldlines and Simultaneity</title>
-		<link>http://192.168.0.163/?p=135</link>
-				<comments>http://192.168.0.163/?p=135#respond</comments>
+		<link>/?p=135</link>
+				<comments>/?p=135#respond</comments>
 				<pubDate>Tue, 16 Apr 2019 18:37:18 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Spacetime Diagrams]]></category>
@@ -69,13 +69,13 @@
 
 <p></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=135</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=135</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Muon Decay</title>
-		<link>http://192.168.0.163/?p=124</link>
-				<comments>http://192.168.0.163/?p=124#respond</comments>
+		<link>/?p=124</link>
+				<comments>/?p=124#respond</comments>
 				<pubDate>Tue, 16 Apr 2019 03:21:24 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -97,13 +97,13 @@
 
 <p><embed type="application/x-shockwave-flash" width="1000" height="750" src="https://www.kcvs.ca/site/projects/physics_files/specialRelativity/muonDecay/muonDecay.swf"></embed></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=124</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=124</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Time Dilation and Length Contraction</title>
-		<link>http://192.168.0.163/?p=101</link>
-				<comments>http://192.168.0.163/?p=101#respond</comments>
+		<link>/?p=101</link>
+				<comments>/?p=101#respond</comments>
 				<pubDate>Tue, 16 Apr 2019 01:55:43 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -173,13 +173,13 @@
 
 <p>Time and length in physics are all <em>measured</em> values, and measurements cannot be made of moving objects without reference frames. Time dilation and length contraction are <em>real</em>, just objective and quantitative, not subjective.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=101</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=101</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Spacetime Intervals</title>
-		<link>http://192.168.0.163/?p=94</link>
-				<comments>http://192.168.0.163/?p=94#respond</comments>
+		<link>/?p=94</link>
+				<comments>/?p=94#respond</comments>
 				<pubDate>Mon, 15 Apr 2019 22:53:35 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -201,13 +201,13 @@
 
 <table class="wp-block-table is-style-stripes"><tbody><tr><td>Value of <span class="katex-eq" data-katex-display="false">{\Delta}s^2</span></td><td>Description</td></tr><tr><td><span class="katex-eq" data-katex-display="false">{\Delta}s^2\gt0</span></td><td>Physical interaction between 2 reference frames possible.<br>Time-like interval, but simultaneity impossible.</td></tr><tr><td><span class="katex-eq" data-katex-display="false">{\Delta}s^2=0</span></td><td>Only signals at <span class="katex-eq" data-katex-display="false">v=c</span> like radio waves can interact between reference frames.</td></tr><tr><td><span class="katex-eq" data-katex-display="false">{\Delta}s^2\lt0</span></td><td>Space between 2 reference frames too large for any physical interaction.</td></tr></tbody></table>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=94</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=94</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Velocity Addition</title>
-		<link>http://192.168.0.163/?p=82</link>
-				<comments>http://192.168.0.163/?p=82#respond</comments>
+		<link>/?p=82</link>
+				<comments>/?p=82#respond</comments>
 				<pubDate>Mon, 15 Apr 2019 18:33:16 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -233,13 +233,13 @@
 
 <p>These modified equations allow us to use Galileo&#8217;s velocity additions with the speed of light.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=82</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=82</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Lorentz Transformations</title>
-		<link>http://192.168.0.163/?p=72</link>
-				<comments>http://192.168.0.163/?p=72#respond</comments>
+		<link>/?p=72</link>
+				<comments>/?p=72#respond</comments>
 				<pubDate>Sun, 14 Apr 2019 22:30:56 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -269,13 +269,13 @@
 
 <p>Note that the gamma factor has no units, and <span class="katex-eq" data-katex-display="false">{\alpha}{\beta}%</span> of <span class="katex-eq" data-katex-display="false">c</span> is the same as <span class="katex-eq" data-katex-display="false">0.{\alpha}{\beta}c</span>.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=72</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=72</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Clock Synchronization</title>
-		<link>http://192.168.0.163/?p=66</link>
-				<comments>http://192.168.0.163/?p=66#respond</comments>
+		<link>/?p=66</link>
+				<comments>/?p=66#respond</comments>
 				<pubDate>Sun, 14 Apr 2019 21:55:07 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -297,13 +297,13 @@
 
 <p>Who&#8217;s right? Both are objective and correct because of asymmetric relationship of space and time between 2 frames of reference.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=66</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=66</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Postulates of Relativity</title>
-		<link>http://192.168.0.163/?p=50</link>
-				<comments>http://192.168.0.163/?p=50#respond</comments>
+		<link>/?p=50</link>
+				<comments>/?p=50#respond</comments>
 				<pubDate>Sun, 14 Apr 2019 20:02:03 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Lorentz Transformations]]></category>
@@ -333,13 +333,13 @@
 
 <p>Though today we see Einstein&#8217;s work as a total revolution in relativity and nuclear physics, Einstein himself thinks his postulates and theories are just a completion of Newtonian physics, not a revolution.</p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=50</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=50</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Speed of Light</title>
-		<link>http://192.168.0.163/?p=47</link>
-				<comments>http://192.168.0.163/?p=47#respond</comments>
+		<link>/?p=47</link>
+				<comments>/?p=47#respond</comments>
 				<pubDate>Fri, 12 Apr 2019 19:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
@@ -365,7 +365,7 @@
 
 <table class="wp-block-table is-style-stripes"><tbody><tr><td>Galileo &amp; Newton</td><td>Maxwell &amp; Einstein</td></tr><tr><td>0.5<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.5<em>c</em><sub>light</sub></td><td>sum of 0.5<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>0.9<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.9<em>c</em><sub>light</sub></td><td>sum of 0.9<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>-0.7<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 0.3<em>c</em><sub>light</sub></td><td>sum of -0.7<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr></tbody></table>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=47</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=47</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

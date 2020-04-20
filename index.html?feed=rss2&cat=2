@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Intro to Relativity</title>
-	<atom:link href="http://192.168.0.163/?feed=rss2&#038;cat=2" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.163</link>
+	<atom:link href="/?feed=rss2&#038;cat=2" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Raymond&#039;s Relevant Relativity</description>
 	<lastBuildDate>
 	Tue, 16 Apr 2019 18:39:30 +0000	</lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.4</generator>
 
 <image>
-	<url>http://192.168.0.163/wp-content/uploads/cropped-R3-32x32.png</url>
+	<url>/wp-content/uploads/cropped-R3-32x32.png</url>
 	<title>Intro to Relativity</title>
-	<link>http://192.168.0.163</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Speed of Light</title>
-		<link>http://192.168.0.163/?p=47</link>
-				<comments>http://192.168.0.163/?p=47#respond</comments>
+		<link>/?p=47</link>
+				<comments>/?p=47#respond</comments>
 				<pubDate>Fri, 12 Apr 2019 19:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
@@ -57,13 +57,13 @@
 
 <table class="wp-block-table is-style-stripes"><tbody><tr><td>Galileo &amp; Newton</td><td>Maxwell &amp; Einstein</td></tr><tr><td>0.5<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.5<em>c</em><sub>light</sub></td><td>sum of 0.5<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>0.9<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 1.9<em>c</em><sub>light</sub></td><td>sum of 0.9<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr><tr><td>-0.7<em>c</em><sub>source</sub> + <em>c</em><sub>light</sub> = 0.3<em>c</em><sub>light</sub></td><td>sum of -0.7<em>c</em><sub>source</sub> and <em>c</em><sub>light</sub> gives <em>c</em><sub>light</sub></td></tr></tbody></table>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=47</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=47</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Galileo and Newton</title>
-		<link>http://192.168.0.163/?p=37</link>
-				<comments>http://192.168.0.163/?p=37#respond</comments>
+		<link>/?p=37</link>
+				<comments>/?p=37#respond</comments>
 				<pubDate>Fri, 12 Apr 2019 16:40:40 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
@@ -125,13 +125,13 @@
 
 <p></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=37</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=37</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Reference Frames</title>
-		<link>http://192.168.0.163/?p=33</link>
-				<comments>http://192.168.0.163/?p=33#respond</comments>
+		<link>/?p=33</link>
+				<comments>/?p=33#respond</comments>
 				<pubDate>Fri, 12 Apr 2019 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Intro to Relativity]]></category>
@@ -173,7 +173,7 @@
 
 <figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/i7FE-tnjgrXT_eyTvYuD2O-m0qDQoEq9PJhLTtfXKMxVyq7KrygfQZg6CYnK2iLBK4J28JTZBzn1GjscMB2nTasPTg6vwax_OlfemHMNFOSTiTNWsUW8UKOICAQknEXKB8uNx5PI" alt="Reference frames do not have to line up. However, for our study we consider one dimension only where the two coordinate systems run parallel along an x-axis."/><figcaption>Various different reference frames. In the bottom right diagram, <span class="katex-eq" data-katex-display="false">S^{\prime}</span> is moving at a speed <span class="katex-eq" data-katex-display="false">v</span> with respect to <span class="katex-eq" data-katex-display="false">S</span>.</figcaption></figure>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=33</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=33</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

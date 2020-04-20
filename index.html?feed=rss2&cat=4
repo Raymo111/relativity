@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Spacetime Diagrams</title>
-	<atom:link href="http://192.168.0.163/?feed=rss2&#038;cat=4" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.163</link>
+	<atom:link href="/?feed=rss2&#038;cat=4" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Raymond&#039;s Relevant Relativity</description>
 	<lastBuildDate>
 	Tue, 16 Apr 2019 18:39:30 +0000	</lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.4</generator>
 
 <image>
-	<url>http://192.168.0.163/wp-content/uploads/cropped-R3-32x32.png</url>
+	<url>/wp-content/uploads/cropped-R3-32x32.png</url>
 	<title>Spacetime Diagrams</title>
-	<link>http://192.168.0.163</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Spacetime Diagrams, Worldlines and Simultaneity</title>
-		<link>http://192.168.0.163/?p=135</link>
-				<comments>http://192.168.0.163/?p=135#respond</comments>
+		<link>/?p=135</link>
+				<comments>/?p=135#respond</comments>
 				<pubDate>Tue, 16 Apr 2019 18:37:18 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[Spacetime Diagrams]]></category>
@@ -53,7 +53,7 @@
 
 <p></p>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=135</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=135</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

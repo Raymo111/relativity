@@ -8,11 +8,11 @@
 <channel>
 	<title>
 	Comments on: Reference Frames	</title>
-	<atom:link href="http://192.168.0.163/?feed=rss2&#038;p=33" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.163/?p=33</link>
+	<atom:link href="/?feed=rss2&#038;p=33" rel="self" type="application/rss+xml" />
+	<link>/?p=33</link>
 	<description>Raymond&#039;s Relevant Relativity</description>
 	<lastBuildDate>
-	Wed, 18 Mar 2020 02:02:44 +0000	</lastBuildDate>
+	Mon, 20 Apr 2020 22:31:47 +0000	</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

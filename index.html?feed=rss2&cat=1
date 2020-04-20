@@ -9,8 +9,8 @@
 
 <channel>
 	<title>General</title>
-	<atom:link href="http://192.168.0.163/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
-	<link>http://192.168.0.163</link>
+	<atom:link href="/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Raymond&#039;s Relevant Relativity</description>
 	<lastBuildDate>
 	Tue, 16 Apr 2019 18:39:30 +0000	</lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.4</generator>
 
 <image>
-	<url>http://192.168.0.163/wp-content/uploads/cropped-R3-32x32.png</url>
+	<url>/wp-content/uploads/cropped-R3-32x32.png</url>
 	<title>General</title>
-	<link>http://192.168.0.163</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Quiz Time!</title>
-		<link>http://192.168.0.163/?p=137</link>
-				<comments>http://192.168.0.163/?p=137#respond</comments>
+		<link>/?p=137</link>
+				<comments>/?p=137#respond</comments>
 				<pubDate>Tue, 16 Apr 2019 18:39:30 +0000</pubDate>
 		<dc:creator><![CDATA[raymo]]></dc:creator>
 				<category><![CDATA[General]]></category>
@@ -41,7 +41,7 @@
 								<content:encoded><![CDATA[
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewBxJH0WUW9eBIXtqkx7ayBMFV3AUaJM4e1-QRKBAv4EjP6A/viewform?embedded=true" width="640" height="2009" frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
 ]]></content:encoded>
-							<wfw:commentRss>http://192.168.0.163/?feed=rss2&#038;p=137</wfw:commentRss>
+							<wfw:commentRss>/?feed=rss2&#038;p=137</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
